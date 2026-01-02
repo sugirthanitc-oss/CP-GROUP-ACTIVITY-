@@ -1,0 +1,46 @@
+------ HOTEL ROOM BOOKING SYSTEM ------
+1. Add Room
+2. Display Rooms
+3. Book Room
+4. Check-In
+5. Check-Out
+6. Cancel Booking
+0. Exit
+--------------------------------------
+Enter your choice: 1
+Enter Room Number: 101
+Enter Room Type: Single
+Enter Room Price: 1500
+Room added successfully!
+
+Enter your choice: 1
+Enter Room Number: 102
+Enter Room Type: Double
+Enter Room Price: 2500
+Room added successfully!
+
+Enter your choice: 2
+RoomNo  Type      Price     Status
+-----------------------------------
+101     Single    1500.00   Available
+102     Double    2500.00   Available
+
+Enter your choice: 3
+Enter Room Number to Book: 101
+Room booked successfully!
+
+Enter your choice: 4
+Enter Room Number: 101
+Enter Guest Name: Ravi
+Check-in completed successfully.
+
+Enter your choice: 5
+Enter Room Number to Check-Out: 101
+Check-out successful.
+
+Enter your choice: 6
+Enter Room Number to Cancel Booking: 102
+Booking cancelled successfully.
+
+Enter your choice: 0
+Exiting program...
